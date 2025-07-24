@@ -38,3 +38,8 @@ print("Languages:\n\tjava\n\tPythonn\n\tC language\n\tWeb technology")
 favourite_language=" python is python  "
 print(favourite_language)
 print(favourite_language.lstrip())
+
+my_age=1_000
+print(my_age)
+my_age2,my_age3=14,15
+print(my_age2,my_age3)
